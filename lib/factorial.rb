@@ -12,6 +12,5 @@ def factorial(number)
     factorial *= number
     number -= 1
   end
-
   return factorial 
 end
